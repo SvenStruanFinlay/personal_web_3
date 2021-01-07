@@ -30,14 +30,19 @@
                 "desc": "Worked in a team of clinical trial experts developing new innovative ideas for the company. Developed a proof-of-concept(PoC) system integrating 3D printing into the medical supply system. Rapidly adapted to understanding of clinical trials and its software systems to develop PoC. Cross-functional teamwork, python, agile development, system design and project management."
             },
             {
-                "insName": "global management consulting",
-                "position": "<span>2016-2018</span> | Software Engineer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "The Saint",
+                "position": "<span>2018-2019</span> |  Web Editor",
+                "desc": " Oversaw the now award-winning website redesign while managing and growing the team."
             },
             {
-                "insName": "Chinese multinational tech",
-                "position": "<span>2003-2016</span> | Web Developer",
-                "desc": "Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor."
+                "insName": "University of St Andrews",
+                "position": "<span>Summer 2018</span> | Research Intern",
+                "desc": "Wrote software in MATLAB to solve classification issues with medical data for the NHS."
+            },
+            {
+                "insName": "Code First: Girls",
+                "position": "<span>2018-2019</span> |  Assistant Instructor ",
+                "desc": "Assistant instructor for the python course with a focus on backend web development."
             }
         ]
     }
