@@ -1,0 +1,43 @@
+
+// google map scss
+.vue-map-container {
+    height: 400px;
+    width: 100%;
+}
+
+// contact info scss
+.contact-info {
+    &__list {
+        color: $white;
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+        justify-content: center;
+        i {
+            font-size: 20px;
+            padding-right: 10px;
+            color: $theme-color-primary;
+        }
+        a {
+            color: $white;
+            &:hover {
+                color: $theme-color-primary;
+            }
+        }
+    }
+}
+.contact-form {
+    margin-top: 30px;
+    input,
+    textarea {
+        color: $paragraph-light;
+        width: 100%;
+        border: 1px solid rgba($paragraph-light, 0.1%);
+        margin-bottom: 30px;
+        padding: 8px 20px;
+        background-color: $bg-light;
+    }
+    textarea {
+        height: 150px;
+    }
+}

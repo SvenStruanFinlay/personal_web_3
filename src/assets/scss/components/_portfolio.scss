@@ -1,0 +1,153 @@
+.portfolio-item {
+    &__thumb {
+        position: relative;
+        img {
+            width: 100%;
+        }
+        &:before {
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            content: '';
+            margin: 10px;
+            position: absolute;
+            background-color: rgba($black, 0.5);
+            pointer-events: none;
+            opacity: 0;
+            visibility: hidden;
+            z-index: 1;
+            transition: 0.4s;
+            transform: scale(1.1);
+        }
+    }
+    &__content {
+        .portfolio-title {
+            font-family: $heading-font;
+            margin-top: 20px;
+            padding-left: 40px;
+            position: relative;
+            &:before {
+                left: 0;
+                top: 50%;
+                width: 30px;
+                height: 2px;
+                content: '';
+                position: absolute;
+                background-color: $theme-color-primary;
+                transform: translateY(-50%);
+            }
+            a {
+                color: $white;
+                &:hover {
+                    color: $theme-color-primary;
+                }
+            }
+        }
+        p {
+            font-size: 13px;
+            padding-left: 40px;
+        }
+    }
+    &:hover {
+       .portfolio-item__thumb {
+           &:before {
+               opacity: 1;
+               visibility: visible;
+               transform: scale(1);
+           }
+       } 
+    }
+}
+// portfolio gallery css
+.portfolio-area {
+    .row {
+        @media #{$md-device, $sm-device}{
+                margin-top: -40px;
+            }
+        [class*="col-"] {
+            @media #{$md-device, $sm-device}{
+                margin-top: 40px;
+            }
+            &:nth-child(odd) {
+                .portfolio-item {
+                    margin-bottom: 80px;
+                    // res
+                    @media #{$md-device, $sm-device}{
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+//project details page scss
+.project-information {
+    background-color: $bg-dark;
+    box-shadow: 0px 1px 10px 0px rgba($black, 0.3);
+    padding: 30px;
+    .title {
+        color: $white;
+        margin-bottom: 20px;
+    }
+    &__list {
+        li {
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba($white, 0.1);
+            color: $paragraph-light;
+            font-size: 14px;
+            &:last-child {
+                margin-bottom: 0;
+                padding-bottom: 0;
+                border: none;
+            }
+            & strong {
+                color: $white;
+                max-width: 80px;
+                width: 100%;
+                display: inline-flex;
+                position: relative;
+                margin-right: 10px;
+                &:after {
+                    content: ':';
+                    top: 0;
+                    right: 0;
+                    position: absolute;
+                }
+            }
+        }
+    }
+}
+
+.project-details {
+    background-color: $bg-dark;
+    box-shadow: 0px 1px 10px 0px rgba($black, 0.3);
+    padding: 30px;
+    // res
+    @media #{$md-device, $sm-device} {
+        margin-top: 30px;
+    }
+    .title {
+        color: $white;
+        margin-bottom: 20px;
+        // res
+        @media #{$xxs-device} {
+            font-size: 24px;
+        }
+    }
+}
+
+// screenshot gallery
+.screenshot-gallery {
+    margin-top: 40px;
+    .screenshot-title {
+        color: $white;
+        margin-bottom: 30px;
+        // res
+        @media #{$xxs-device} {
+            font-size: 24px;
+        }
+    }
+}

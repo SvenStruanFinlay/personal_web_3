@@ -1,0 +1,150 @@
+/*------ Typography Style Start ------*/
+@import url('https://fonts.googleapis.com/css?family=Nunito:300,400,400i,600,700,800&display=swap');
+
+body {
+    color: $paragraph-light;
+    line-height: 1.7;
+    font-size: $font-size-base;
+    font-family: $font-family-base;
+}
+
+a {
+    transition: 0.4s;
+    &:hover,
+    &:focus {
+        outline: none;
+        text-decoration: none;
+    }
+}
+
+p {
+    margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    margin: 0;
+    line-height: 1.5;
+}
+h1, 
+.h1 {
+    font-size: 36px;
+}
+h2, 
+.h2 {
+    font-size: 30px;
+}
+h3, 
+.h3 {
+    font-size: 24px;
+}
+h4, 
+.h4 {
+    font-size: 20px;
+}
+h5, 
+.h5 {
+    font-size: 18px;
+}
+h6, 
+.h6 {
+    font-size: 16px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+        list-style: none;
+    }
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    transition: 0.4s;
+}
+
+.btn,
+button {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    box-shadow: none;
+    border-radius: 0;
+    transition: 0.4s;
+    background-color: transparent;
+    &:active,
+    &:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    &-default {
+        color: $white;
+        padding: 10px 30px;
+        background-color: $theme-color-primary;
+        &:hover {
+            color: $white;
+            background-color: $theme-color-secondary;
+        }
+    }
+}
+
+input,
+textarea {
+    border: none;
+    &:focus {
+        outline: none;
+    }
+}
+select {
+    &:focus {
+        outline: none;
+    }
+}
+.form-control {
+    &:focus {
+        border-color: $theme-color-primary;
+        box-shadow: none;
+    }
+}
+
+// placeholder text style
+::placeholder {
+    color: #999;
+    font-size: 13px;
+    opacity: 1;
+}
+
+
+// custom container
+.container {
+    max-width: 1200px;
+
+    // responsive
+    @media #{$sm-device} {
+        max-width: 550px;
+    }
+
+    @media #{$xs-device} {
+        max-width: 450px;
+    }
+
+    @media #{$xxs-device} {
+        max-width: 100%;
+    }
+}

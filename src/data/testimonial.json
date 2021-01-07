@@ -1,0 +1,20 @@
+{
+    "bgImage": "/img/bg/testimonial.png",
+    "testimonials": [
+        {
+            "desc": "You and the team did a really great job! A brilliant case study for future UCL IXN students and a lot of new ideas for projects for us to explore! We are all VERY proud of you!",
+            "author": "Dr Dean Mohamedally",
+            "designation": "Associate Professor in Software Engineering and Industry Projects at UCL"
+        },
+        {
+            "desc": "Congratulations Sven.  It was a pleasure working with you and your project team.  Fantastic results all round.",
+            "author": "Pippa Chick MCIM",
+            "designation": "Global Account Director: Health and Life Sciences Industry at Intel Corporation"
+        },
+        {
+            "desc": "I strongly believe that one's outstanding intellectual ability and performance is of little value or impact without the ability to train or inspire the next generation. Not surprisingly, Sven does not fail to deliver on this aspect as well, by showing his teaching potential and commitment to improving the lives of others on several occasions.",
+            "author": "Dr Shyam Reyal",
+            "designation": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+
+.breadcrumb-area {
+    padding-top: 220px;
+    // responsive
+    @media #{$md-device, $sm-device}{
+        padding-top: 170px;
+    }
+}
+
+.breadcrumb {
+    background-color: transparent;
+    justify-content: center;
+    margin-bottom: 0;
+    padding: 0;
+
+    .breadcrumb-item {
+        font-size: 16px;
+        line-height: 1;
+        color: $theme-color-secondary;
+        &::after {
+            content: "/";
+            margin: 0 6px;
+            vertical-align: middle;
+        }
+        &:last-child {
+            &::after {
+                display: none;
+            }
+        }
+        a {
+            color: $theme-color-secondary;
+            &:hover {
+                color: $theme-color-primary;
+            }
+        }
+    }
+}
+
+.breadcrumb-item+.breadcrumb-item {
+    padding-left: 0;
+    &::before {
+        display: none;
+    }
+}
+

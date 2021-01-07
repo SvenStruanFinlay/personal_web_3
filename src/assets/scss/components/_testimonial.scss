@@ -1,0 +1,42 @@
+.testimonial {
+    &-desc {
+        color: $white;
+    }
+    &-inner {
+        max-width: 750px;
+        margin: auto;
+        .icon {
+            margin-bottom: 28px;
+            img {
+                margin: auto;
+            }
+        }
+        .client {
+            &-info {
+                line-height: 1;
+                margin-top: 63px;
+                position: relative;
+                &:before {
+                    top: -48px;
+                    left: 50%;
+                    width: 2px;
+                    height: 35px;
+                    content: '';
+                    position: absolute;
+                    background-color: $theme-color-primary;
+                }
+            }
+            &-name {
+                color: $white;
+                font-weight: 700;
+                padding-bottom: 5px;
+            }
+            &-desig {
+                color: $paragraph-light;
+                display: inline-block;
+                font-size: 14px;
+                margin-top: 5px;
+            }
+        }
+    }
+}

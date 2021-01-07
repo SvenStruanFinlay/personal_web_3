@@ -1,0 +1,28 @@
+{
+    "service": {
+        "sectionTitle": "My Specialty",
+        "sectionTitleWaterText": "My Specialty",
+        "services": [
+            {
+                "serviceNo": "01",
+                "title": "Computer Scientist",
+                "desc": "Having trained in CS during my undergraduate I understand a wide range of its fundamentals. I also specialised in HCI, AI, Software Engineering and Data visualision."
+            },
+            {
+                "serviceNo": "02",
+                "title": "Software Design and Architecture",
+                "desc": "In reading my masters I sharpend my skills in software systems design, development and implementation. This is demonstraited through distinctions in my projects. "
+            },
+            {
+                "serviceNo": "03",
+                "title": "Software Team Mananagment",
+                "desc": "Throughout my student career I have lead and managed many software teams. For example, as Web Editor of the Saint, as Team leader of IBM and Intel industry exchange projects. Each team I have lead results in high award, most recently being published to Gosh Conference 2020."
+            },
+            {
+                "serviceNo": "04",
+                "title": "Creative Design",
+                "desc": "Throughout my degrees, during my research internship at St Andrews and as an Innovation Scientist intern at Medidata, I have push my minds creativity to help develop new innovative projects. Often with high regards."
+            }
+        ]
+    }
+}

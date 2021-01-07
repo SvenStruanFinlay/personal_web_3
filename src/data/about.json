@@ -1,0 +1,69 @@
+{
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionTitleWaterText": "About Me",
+        "aboutMe": "Driven by curiosity, tech innovation is pushing our world forward at an unprecedented rate. I am a Computer Scientist with a passion for software, innovation and helping people.",
+        "aboutMe2": "Starting computer science in high school, I focused on Java and SQL database programming. Reading my undergraduate, I took up a focus in software engineering, AI, user interaction and data visualisation. I aim to utilise these areas to make people's life better (more comfortable, happier, more powerful, and more efficient) with technology. ",
+        "aboutMe3": "I am now reading an MSc in Software System Engineering so that I can reinforce the fundamentals of software engineering, requirement engineering, software architecture, project management in software and the core of software systems design. I plan to dive into the industry with an expert background in SSE with a passion for innovation, technology, and people."
+    },
+    "socials": [
+        {
+            "icon": "fa fa-facebook",
+            "link": "https://www.facebook.com/svenstr/"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "link": "https://www.twitter.com/SvenFinlayson"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://www.linkedin.com/in/svensfinlay/"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "link": "https://www.instagram.com/svenstr_finlay/?hl=en"
+        },
+        {
+            "icon": "fa fa-github",
+            "link": "https://github.com/SvenStruanFinlay"
+        }
+    ],
+    "aboutDetails": {
+        "image": "/img/smart.png",
+        "heading": "I'm Sven Finlay, <br>Software System Engineer, Developer, Architect and Designer",
+        "infoList": [
+            {
+                "label": "Name",
+                "info": "Sven Struan Finlay"
+            },
+            {
+                "label": "Email",
+                "info": "info@svensfinlay.tech"
+            },
+            {
+                "label": "Skype",
+                "info": "svenstr.finlay"
+            },
+            {
+                "label": "Website",
+                "info": "www.svensfinlay.tech"
+            },
+            {
+                "label": "Job",
+                "info": "Seeking"
+            },
+            {
+                "label": "Phone",
+                "info": "At request"
+            },
+            {
+                "label": "Address",
+                "info": "Zone 1, London"
+            },
+            {
+                "label": "Nationality",
+                "info": "Irish and South African"
+            }
+        ]
+    }
+}

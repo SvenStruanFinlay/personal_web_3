@@ -1,0 +1,87 @@
+{
+    "skills": {
+        "sectionTitle": "My Skills",
+        "sectionTitleWaterText": "My Skills",
+        "aboutMe": "Driven by curiosity, tech innovation is pushing our world forward at an unprecedented rate. I am a Computer Scientist with a passion for software, innovation and helping people."
+        },
+    "languageList": [
+        {
+            "id": "Java",
+            "level":"5",
+            "tooltip":"Experienced"
+        },
+        {
+            "id": "JavaScript",
+            "level":"4 ",
+            "tooltip":"Competent"
+        },
+        {
+            "id": "C",
+            "level":"3 ",
+            "tooltip":"Competent"
+        },
+        {
+            "id": "C++",
+            "level":"3 ",
+            "tooltip":"Competent"
+        },
+        {
+            "id": "Python",
+            "level":"4 ",
+            "tooltip":"Competent"
+        },
+        {
+            "id": "Haskell",
+            "level":"1 ",
+            "tooltip":"Basics"
+        },
+        {
+            "id": "MATLAB",
+            "level":"1 ",
+            "tooltip":"Basics"
+        }
+    ],
+    "OtherSkillList": [
+        {
+            "id": "Git"
+        },{
+            "id": "Subversion"
+        },{
+            "id": "Gradle"
+        },{
+            "id": "Maven"
+        },{
+            "id": "ANT"
+        },{
+            "id": "MAKE"
+        },{
+            "id": "Angular"
+        },{
+            "id": "jQuery"
+        },{
+            "id": "React"
+        },{
+            "id": "VueJS"
+        },{
+            "id": "D3"
+        },{
+            "id": "Tableau"
+        },{
+            "id": "CSS3"
+        },{
+            "id": "HTML5"
+        },{
+            "id": "OpenCV   "
+        },{
+            "id": "LATEX"
+        },{
+            "id": "Markdown"
+        },{
+            "id": "Linux"
+        },{
+            "id": "Windows"
+        },{
+            "id": "MacOS"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+.cta-inner {
+    max-width: 500px;
+    margin: auto;
+    color: $white;
+    &__title {
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 1.2px;
+        margin-bottom: 30px;
+    }
+    &__subtitle {
+        font-weight: 400;
+        margin-bottom: 10px;
+        letter-spacing: 1.2px;
+    }
+}

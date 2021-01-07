@@ -1,0 +1,8 @@
+{
+    "hero": {
+        "subTitle": "Hi, I'm <span>Sven Struan Finlay</span>",
+        "title": "Software systems Engineer, HCI, AI &  Software Architect ",
+        "bgImg": "/img/hero/world.png",
+        "image": "/img/hero/me.png"
+    }
+}

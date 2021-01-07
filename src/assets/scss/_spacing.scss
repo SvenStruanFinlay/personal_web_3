@@ -1,0 +1,73 @@
+
+/*------- short classes start -------*/
+.section-padding {
+    padding: 120px 0;
+    // res
+    @media #{$md-device, $sm-device}{
+        padding: 70px 0;
+    }
+}
+.section-padding__2 {
+    padding: 100px 0;
+}
+.pt-30 {
+    padding-top: 30px;
+}
+.pt-50 {
+    padding-top: 50px;
+}
+.pb-50 {
+    padding-bottom: 50px;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+.mt-40 {
+    margin-top: 40px;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.mt-70 {
+    margin-top: 70px;
+}
+.mtn-20 {
+    margin-top: -20px;
+}
+.mbn-30 {
+    margin-bottom: -30px;
+}
+.mtn-30 {
+    margin-top: -30px;
+}
+.mtn-40 {
+    margin-top: -40px;
+}
+.ptb-30 {
+    padding: 30px 0;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+
+.mtn-50 {
+    margin-top: -50px;
+}
+
+.mbn-50 {
+    margin-bottom: -50px;
+    @media #{$md-device, $sm-device}{
+        margin-bottom: 0;
+    }
+}
+
+/*------- short classes end -------*/

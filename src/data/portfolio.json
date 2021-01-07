@@ -1,0 +1,126 @@
+{
+    "portfolio": {
+        "sectionTitle": "Project",
+        "sectionTitleWaterText": "Latest Work",
+        "portfolioGallery": [
+            {
+                "image": "/img/portfolio/sight/rules.png",
+                "title": "Intel Sight++",
+                "link": "/intel-sightpp",
+                "desc": "An Assistive Device for the Visually Impaired"
+            },
+            {
+                "image": "/img/portfolio/IBM/create.gif",
+                "title": "IBM Watson Designer",
+                "link": "/ibm-chatbot",
+                "desc": "Plug and Play Chatbot builder for Node-RED"
+            },
+            {
+                "image": "/img/portfolio/portfolio-3.jpg",
+                "title": "Software Development",
+                "link": "/project-details",
+                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+            }
+        ]
+    },
+    "projects": {
+        "SightPP": {
+            "projectDetails": {
+                "projectDetailsTitle": "Intel Sight++: An Assistive Device for the Visually Impaired",
+                "projectDetailsDesc": "The visually impaired in society are amongst the most impacted by social isolation restrictions of the COVID-19 pandemic, fuelling research interests into assistive technologies, including devices primed to use computer vision for task-orientated image recognition.  We present a Proof-of-Concept prototype modular system that uses Intel RealSense depth cameras connected to a modular Machine Learning (ML) inference platform to construct near field object information that guides and encourages exploration for patients. </br> Early engagement from experts in the field of global disability enabled us to better appreciate orientation, mobility-related considerations, sensory components and meaningful voice instructions. We subsequently designed a novel modular, extensible platform that runs inference classification and depth detection on camera input, then uses heuristic AI Priortiser to analyse and identify essential guidance output for patients. </br> Sight ++ uses object recognition to accurately inform users on near field objects, including data on proximity. By parsing the items through a series of environment rules, which results in objects having more or less relative importance, the system can output qualified audio guidance for obstacle avoidance and awareness. The use of OpenVINO resulted in a 2-fold increase in performance of our inference classifiers. </br> We anticipate that a miniaturised depth camera would be fitted to a backpack adjustable strap to offer real-time object recognition and meaningful notification of artefacts of interest at waist height and above.",
+                "images": [
+                    {
+                        "image": "/img/portfolio/sight/detect.png"
+                    },
+                    {
+                        "image": "/img/portfolio/sight/example.png"
+                    },
+                    {
+                        "image": "/img/portfolio/sight/rules.png"
+                    },
+                    {
+                        "image": "/img/portfolio/sight/poster.png"
+                    }
+                ]
+            },
+            "projectDetailsInfo": {
+                "title": "Project Information",
+                "lists": [
+                    {
+                        "label": "Client",
+                        "desc": "Intel"
+                    },
+                    {
+                        "label": "Location",
+                        "desc": "London, UK"
+                    },
+                    {
+                        "label": "Sector",
+                        "desc": "Digital Health, Visual Aids"
+                    },
+                    {
+                        "label": "Year",
+                        "desc": "2020"
+                    },
+                    {
+                        "label": "Budget",
+                        "desc": "N/A"
+                    },
+                    {
+                        "label": "Github",
+                        "desc": "https://github.com/SightPP/Intel_IXN_SightPP"
+                    }
+                ]
+            }
+        },
+        "chatbot": {
+            "projectDetails": {
+                "projectDetailsTitle": "Plug and Play Chatbot builder for Node-RED ",
+                "projectDetailsDesc": "The Internet connects everyone. Therefore, business owners regularly use the Internet as a tool to promote their businesses to the rest of the world. As the number of customers increases, the harder it gets for companies to hire employees simply to answer many common questions that customers might have. Thus, there is a growing need for a virtual assistant that can provide customers with instant responses and is available every hour of the day. Many users choose to use IBM's Watson Assistant to build, train, and deploy conversational interactions into their applications. However, to create a Watson Assistant Chatbot, our target users must go through a series of complicated tutorials and move between different tools before they can design the chatbot they need on the IBM Cloud.  </br> The purpose of the project titled 'Watson Designer' is to provide a one-stop site to create a Watson Chatbot, that is more user-friendly than the original Watson Assistant design system. We used Node-RED as the framework for our web application because of its flow-based programming, well designed GUI, and drag & drop interaction. We believe that creating a conversational interaction as a flow of nodes is more intuitive than connecting separate dialogs through abstract keywords. Moreover, our project also implements Watson Discovery into our web application to help our target users create a more powerful Chatbot which could retrieve responses from a large dataset. </br> Our project used Agile and Test-Driven Development (TDD) as its software development methodology to make sure we could get feedback in every small iteration and respond to new requirements swiftly. The team hosted a daily stand-up meeting online to track everyone's progress, a face-to-face SCRUM meeting every week to assign the user-stories and a review meeting every two weeks to communicate with our client from IBM.  The following sections of this report will introduce the tools we used, the work we have done, the architecture of our web application, and how we verify and validate our product. Finally, the report will also discuss the potential future developments of Watson Designer. ",
+                "images": [
+                    {
+                        "image": "/img/portfolio/IBM/chatbot.gif"
+                    },
+                    {
+                        "image": "/img/portfolio/IBM/chatbot_node.png"
+                    },
+                    {
+                        "image": "/img/portfolio/IBM/create.gif"
+                    },
+                    {
+                        "image": "/img/portfolio/IBM/overview.png"
+                    }
+                ]
+            },
+            "projectDetailsInfo": {
+                "title": "Project Information",
+                "lists": [
+                    {
+                        "label": "Client",
+                        "desc": "IBM"
+                    },
+                    {
+                        "label": "Location",
+                        "desc": "London, UK"
+                    },
+                    {
+                        "label": "Sector",
+                        "desc": "Chatbots & Web Design"
+                    },
+                    {
+                        "label": "Year",
+                        "desc": "2019/20"
+                    },
+                    {
+                        "label": "Budget",
+                        "desc": "N/A"
+                    },
+                    {
+                        "label": "Github",
+                        "desc": "https://github.com/SvenStruanFinlay/NodeRed_Chatbot_Plugin-1"
+                    }
+                ]
+            }
+        }
+    }
+}

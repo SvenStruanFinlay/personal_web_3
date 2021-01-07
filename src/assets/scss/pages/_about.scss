@@ -1,0 +1,126 @@
+.about-image {
+    img {
+        border-radius: 50%;
+        overflow: hidden;
+        box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    }
+    // res
+    @media #{$md-device, $sm-device} {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+}
+
+.about-info {
+    overflow: hidden;
+    .title {
+        color: $theme-color-primary;
+        font-weight: 700;
+        line-height: 1.4;
+        margin-top: -8px;
+        margin-bottom: 20px;
+    }
+}
+
+.personal-info {
+    margin-top: 20px;
+    ul {
+        li {
+            width: 50%;
+            float: left;
+            color: $paragraph-light;
+            margin-bottom: 10px;
+            a {
+                color: $paragraph-light;
+            }
+            // res
+            @media #{$xs-device} {
+                width: 100%;
+                float: none;
+            }
+            b {
+                color: $white;
+                display: inline-block;
+                font-weight: 500;
+                width: 95px;
+                margin-right: 10px;
+                position: relative;
+                &:after {
+                    content: ':';
+                    top: 0;
+                    right: 0;
+                    position: absolute;
+                }
+            }
+            &:last-child {
+                @media #{$xs-device} {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}
+
+// resume section scss
+.resume-content {
+    border-left: 2px solid $theme-color-secondary;
+}
+.resume-education {
+    .heading {
+        color: $theme-color-primary;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+    }
+}
+.professional {
+    @media #{$sm-device} {
+        margin-top: 65px;
+    }
+}
+.resume-item {
+    margin-bottom: 30px;
+    margin-left: 20px;
+    padding: 20px;
+    position: relative;
+    background-color: $bg-dark;
+    border-radius: 15px;
+    border-left: 2px solid $theme-color-secondary;
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.3);
+    .ins-name {
+        color: $white;
+        text-transform: uppercase;
+    }
+    .degree {
+        color: $theme-color-secondary;
+        margin: 10px 0;
+    }
+    &:before {
+        content: "";
+        width: 17px;
+        height: 2px;
+        left: -17px;
+        top: 24px;
+        position: absolute;
+        background-color: $theme-color-secondary;
+    }
+    &:after {
+        content: "";
+        top: 16px;
+        height: 16px;
+        width: 16px;
+        left: -31px;
+        position: absolute;
+        border: 2px solid $theme-color-secondary;
+        border-radius: 50%;
+        background-color: $bg-dark;
+        transition: 0.4s;
+    }
+    &:hover {
+        &:after {
+            background-color: $theme-color-secondary;
+        }
+    }
+    &:last-child {
+        margin-bottom: 0;
+    }
+}

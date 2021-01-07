@@ -1,0 +1,217 @@
+{
+    "blog": {
+        "sectionTitle": "Latest Post",
+        "sectionTitleWaterText": "Latest Post",
+        "blogPosts": [
+            {
+                "title": "Despite not being built for business, it does let you display",
+                "image": "/img/blog/blog-1.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "15 May, 2020"
+            },
+            {
+                "title": "There are many things Google looks at when analyzing website.",
+                "image": "/img/blog/blog-2.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "18 Jun, 2020"
+            },
+            {
+                "title": "Google handles billions websites every day. How does it do that",
+                "image": "/img/blog/blog-3.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "22 Jul, 2020"
+            },
+            {
+                "title": "How to get your website into Google’s index with right way",
+                "image": "/img/blog/blog-4.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "08 Aug, 2020"
+            },
+            {
+                "title": "Before your site can appear in the search results, search engine",
+                "image": "/img/blog/blog-5.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "28 Feb, 2020"
+            },
+            {
+                "title": "Ready to launch a blog with these free blog sites for ever",
+                "image": "/img/blog/blog-6.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "16 Jan, 2020"
+            },
+            {
+                "title": "Despite not being built for business, it does let you display",
+                "image": "/img/blog/blog-1.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "15 May, 2020"
+            },
+            {
+                "title": "There are many things Google looks at when analyzing website.",
+                "image": "/img/blog/blog-2.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "18 Jun, 2020"
+            },
+            {
+                "title": "Google handles billions websites every day. How does it do that",
+                "image": "/img/blog/blog-3.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "22 Jul, 2020"
+            },
+            {
+                "title": "How to get your website into Google’s index with right way",
+                "image": "/img/blog/blog-4.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "08 Aug, 2020"
+            },
+            {
+                "title": "Before your site can appear in the search results, search engine",
+                "image": "/img/blog/blog-5.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "28 Feb, 2020"
+            },
+            {
+                "title": "Ready to launch a blog with these free blog sites for ever",
+                "image": "/img/blog/blog-6.jpg",
+                "comment": 4,
+                "like": 15,
+                "postDate": "16 Jan, 2020"
+            }
+        ]
+    },
+    "sidebar": {
+        "searchTitle": "Search",
+        "categoryTitle": "Categories",
+        "categories": [
+            {
+                "title": "web development",
+                "count": "30"
+            },
+            {
+                "title": "web design",
+                "count": "15"
+            },
+            {
+                "title": "apps development",
+                "count": "25"
+            },
+            {
+                "title": "digital marketing",
+                "count":  "22"
+            },
+            {
+                "title": "SEO analyst",
+                "count": "08"
+            }
+        ],
+        "recentPostTitle": "Recent Posts",
+        "recentPosts": [
+            {
+                "image": "/img/blog/recent-01.jpg",
+                "alt": "post thumbnail",
+                "title": "Despite being built for business",
+                "date": "15 June, 2020"
+            },
+            {
+                "image": "/img/blog/recent-02.jpg",
+                "alt": "post thumbnail",
+                "title": "Ready to launch a blog with these",
+                "date": "18 July, 2020"
+            },
+            {
+                "image": "/img/blog/recent-03.jpg",
+                "alt": "post thumbnail",
+                "title": "Before your site can appear",
+                "date": "25 May, 2020"
+            },
+            {
+                "image": "/img/blog/recent-04.jpg",
+                "alt": "post thumbnail",
+                "title": "There are many things Google",
+                "date": "09 March, 2020"
+            }
+        ],
+        "tagTitle": "Tags",
+        "tags": [
+            {
+                "name": "Development",
+                "link": "/blog"
+            },
+            {
+                "name": "Design",
+                "link": "/blog"
+            },
+            {
+                "name": "marketing",
+                "link": "/blog"
+            },
+            {
+                "name": "Software",
+                "link": "/blog"
+            },
+            {
+                "name": "SEO",
+                "link": "/blog"
+            },
+            {
+                "name": "Apps",
+                "link": "/blog"
+            }
+        ]
+    },
+    "blogDetails": {
+        "aboutAuthor": {
+            "image": "/img/blog/author.jpg",
+            "name": "Erik Jhonson",
+            "heading": "About the author",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore officiis voluptatem libero perspiciatis veritatis sequi corrupti aperiam nostrum voluptas aliquid vel dolorem eos eius."
+        },
+        "title": "International activities of the online world human bieng",
+        "quoteTitle": "Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur. venenatis elit ac ultrices convallis.",
+        "para_1": "Bigger ipsum dolor sit amet consectetur adipisicing elit. Voluptate perferendis consequuntur illo aliquid nihil ad neque, debitis praesentium libero ullam asperiores exercitationem deserunt inventore facilis, officiis,",
+        "para_2": "aliquam maiores asperiores recusandae commodi blanditiis ipsum tempora culpa possimus assumenda ab quidem a voluptatum quia natus? Ex neque, saepe reiciendis quasi velit perspiciatis error vel quas quibusdam autem nesciunt voluptas oditquis dignissimos aspernatur voluptatum est repellat. Pariatur praesentiumcorrupti",
+        "blogMidleImage": "/img/blog/blog-details-2.jpg",
+        "para_3": "deserunt ducimus quo doloremque nostrum aspernatur saepe cupiditate sit autem exercitationem debitis, maiores vitae perferendis nemo? Voluptas illo, animitemporibus quod earum molestias eaque, iure rem amet autem dignissimos officia dolores numquam distinctio esse voluptates optio pariatur aspernatur omnis? Ipsam qui commodi velit natus reiciendis quod quibusdam nemo eveniet similique animi!",
+        "meta": {
+            "postDate": "25 May, 2020",
+            "comment": 3,
+            "like": 15
+        }
+    },
+    "blogComment": {
+        "heading": "What our users think about this blog post (02)",
+        "comments": [
+            {
+                "isReply": false,
+                "authorName": "Simon",
+                "authorImage": "/img/blog/comment-01.jpg",
+                "CommentTime": "Posted on Jan 15, 2020 at 09:15pm",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim maiores adipisci optio ex, non pariatur itaque illo sunt?"
+            },
+            {
+                "isReply": true,
+                "authorName": "Henry",
+                "authorImage": "/img/blog/comment-02.jpg",
+                "CommentTime": "Posted on May 24, 2020 at 06:20pm",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim maiores adipisci optio ex, non pariatur itaque illo sunt?"
+            },
+            {
+                "isReply": false,
+                "authorName": "William",
+                "authorImage": "/img/blog/comment-03.jpg",
+                "CommentTime": "Posted on Mar 18, 2020 at 10:45am",
+                "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim maiores adipisci optio ex, non pariatur itaque illo sunt?"
+            }
+        ]
+    }
+}
