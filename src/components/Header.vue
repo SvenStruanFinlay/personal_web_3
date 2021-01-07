@@ -31,6 +31,9 @@
                                         <li>
                                             <router-link to="/ibm-chatbot">IBM Chatbot</router-link>
                                         </li>
+                                        <li>
+                                            <router-link to="/personal-website">Personal Website</router-link>
+                                        </li>
                                     </ul>
                                 </li>
                                     <!-- <li>

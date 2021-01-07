@@ -4,7 +4,7 @@
         "sectionTitleWaterText": "Latest Work",
         "portfolioGallery": [
             {
-                "image": "/img/portfolio/sight/rules.png",
+                "image": "/img/portfolio/sight/poster.png",
                 "title": "Intel Sight++",
                 "link": "/intel-sightpp",
                 "desc": "An Assistive Device for the Visually Impaired"
@@ -16,10 +16,10 @@
                 "desc": "Plug and Play Chatbot builder for Node-RED"
             },
             {
-                "image": "/img/portfolio/portfolio-3.jpg",
-                "title": "Software Development",
-                "link": "/project-details",
-                "desc": "Lorem ipsum dolor sit amet consec teturom adipisicing elit"
+                "image": "/img/portfolio/website/front.png",
+                "title": "Web Development",
+                "link": "/personal-website",
+                "desc": "I have developed this website as a personal portfolio for my work and as a future blog."
             }
         ]
     },
@@ -118,6 +118,52 @@
                     {
                         "label": "Github",
                         "desc": "https://github.com/SvenStruanFinlay/NodeRed_Chatbot_Plugin-1"
+                    }
+                ]
+            }
+        },
+        "website": {
+            "projectDetails": {
+                "projectDetailsTitle": "Personal Website as an online portfolio and future blog.",
+                "projectDetailsDesc": "",
+                "images": [
+                    {
+                        "image": "/img/portfolio/website/front.png"
+                    },
+                    {
+                        "image": "/img/portfolio/website/about.png"
+                    },
+                    {
+                        "image": "/img/portfolio/website/skills.png"
+                    }
+                ]
+            },
+            "projectDetailsInfo": {
+                "title": "Project Information",
+                "lists": [
+                    {
+                        "label": "Client",
+                        "desc": "Myself"
+                    },
+                    {
+                        "label": "Location",
+                        "desc": "London, UK"
+                    },
+                    {
+                        "label": "Sector",
+                        "desc": "Web Design"
+                    },
+                    {
+                        "label": "Year",
+                        "desc": "2021"
+                    },
+                    {
+                        "label": "Framework",
+                        "desc": "VueJS"
+                    },
+                    {
+                        "label": "Github",
+                        "desc": "https://github.com/SvenStruanFinlay/personal_web_3"
                     }
                 ]
             }
