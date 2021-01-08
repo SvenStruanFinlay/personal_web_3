@@ -22,7 +22,7 @@
                         </div>
                         <div class="contact-info__list phone">
                             <i class="fa fa-phone"></i>
-                            <a href="tel:+447802693193">+447802693193</a>
+                            <a href="tel:+447802693193">+4478026*****</a>
                         </div>
                     </div>
                 </div>
