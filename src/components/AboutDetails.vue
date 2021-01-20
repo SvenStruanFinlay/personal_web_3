@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xl-4 col-lg-5">
                     <div class="about-image">
-                        <v-lazy-image :src="data.aboutDetails.image" alt="author photo" />
+                        <v-lazy-image :src="data.aboutDetails.image" alt="Sven Struan Finlay" />
                     </div>
                 </div>
                 <div class="col-xl-7 offset-xl-1 col-lg-7">

@@ -6,7 +6,7 @@
                     <div class="col-md-6 col-lg-3 col-8">
                         <div class="logo">
                             <router-link to="/">
-                                <img src="/img/logo_transparent.png" alt="Brand Logo">
+                                <img src="/img/logo_transparent.png" alt="Sven Finlay Logo">
                             </router-link>
                         </div>
                     </div>

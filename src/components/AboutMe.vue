@@ -47,7 +47,7 @@
                   <p>{{ data.about.aboutMe3 }}</p>
                 </div>
                 <div class="signature">
-                  <img src="/img/bg/signature.png" alt="signature" />
+                  <img src="/img/bg/signature.png" alt="Sven Finlay Sig" />
                 </div>
                 <div class="social-link">
                   <a

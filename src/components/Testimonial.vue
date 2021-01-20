@@ -36,9 +36,13 @@
                 swiperOption: {
                     slidesPerView : 1,
                     loop: true,
-                    speed: 1000,
-                    delay: 10000,
-                    autoplay: true,
+                    speed: 2000,
+                    delay: 50000,
+                    autoplay: {
+                        delay : 6500,
+                        disableOnInteraction: false
+                                   },
+                    grabCursor : true,
                     spaceBetween : 30,
                     pagination: {
                         el: '.swiper-pagination-3',

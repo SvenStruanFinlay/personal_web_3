@@ -5,14 +5,14 @@
         "heading": "Education",
         "resumes": [
             {
-                "insName": "UCL - Destinction",
+                "insName": "UCL - Distinction",
                 "position": "<span>2019/20</span> | MSc Software Systems Engineering",
-                "desc": "Modules:Tools and Environments, Requirements Engineering and Software Architec-ture, Professional Practice, Software Abstractions and Systems Integration, People and Security,Validation and Verification & Multi-agent Artificial Intelligence."
+                "desc": "Modules: Tools and Environments, Requirements Engineering and Software Architec-ture, Professional Practice, Software Abstractions and Systems Integration, People and Security, Validation and Verification & Multi-agent Artificial Intelligence."
             },
             {
                 "insName": "University of St Andrews - First Class ",
                 "position": "<span>2015-2019</span> | BSc Computer Science (Hons)",
-                "desc": "HighAchievementModules:Software Engineering Practice, Constraint Programming, Informa-tion Visualisation and Visual Analytics, Logic and Software Verification, Artificial Intelligence Prac-tice, Video Games, and Software Engineering Team Project."
+                "desc": "HighAchievementModules:Software Engineering Practice, Constraint Programming, Information Visualisation and Visual Analytics, Logic and Software Verification, Artificial Intelligence Prac-tice, Video Games, and Software Engineering Team Project."
             },
             {
                 "insName": "SACS High",
@@ -27,10 +27,10 @@
             {
                 "insName": "Medidata",
                 "position": "<span>Summer 2019 </span> |  Innovation Scientist - Intern",
-                "desc": "Worked in a team of clinical trial experts developing new innovative ideas for the company. Developed a proof-of-concept(PoC) system integrating 3D printing into the medical supply system. Rapidly adapted to understanding of clinical trials and its software systems to develop PoC. Cross-functional teamwork, python, agile development, system design and project management."
+                "desc": "Worked in a team of clinical trial experts developing new innovative ideas for the company. Developed a proof-of-concept (PoC) system integrating 3D printing into the medical supply system. Rapidly adapted to understanding of clinical trials and its software systems to develop PoC. Cross-functional teamwork, python, agile development, system design and project management."
             },
             {
-                "insName": "The Saint",
+                "insName": "The Saint - St Andrews Student Newspaper",
                 "position": "<span>2018-2019</span> |  Web Editor",
                 "desc": " Oversaw the now award-winning website redesign while managing and growing the team."
             },
@@ -42,7 +42,7 @@
             {
                 "insName": "Code First: Girls",
                 "position": "<span>2018-2019</span> |  Assistant Instructor ",
-                "desc": "Assistant instructor for the python course with a focus on backend web development."
+                "desc": "Assistant instructor for the python course with a focus on back end web development."
             }
         ]
     }

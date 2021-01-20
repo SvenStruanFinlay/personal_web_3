@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-title text-center">
-                        <span class="water-text">My Challenge</span>
-                        <h2 class="title">My Challenge</h2>
+                        <span class="water-text">My Reputation </span>
+                        <h2 class="title">My Reputation </h2>
                     </div>
                 </div>
             </div>

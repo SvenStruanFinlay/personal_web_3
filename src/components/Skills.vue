@@ -118,8 +118,8 @@ export default {
         loop: true,
         speed: 2000,
         autoplay: {
-          enabled: true,
-          delay: 4,
+          delay: 2000,
+        disableOnInteraction: false
         },
         reverse: true,
         spaceBetween: 30,
@@ -148,8 +148,8 @@ export default {
         loop: true,
         speed: 2000,
         autoplay: {
-          enabled: true,
-          delay: 2,
+          delay: 400,
+          disableOnInteraction: false
         },
         reverse: true,
         spaceBetween: 30, 

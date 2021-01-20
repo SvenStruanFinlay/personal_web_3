@@ -22,14 +22,14 @@
               <v-lazy-image
                 :src="data.hero.bgImg"
                 class="img-fluid rotateWorld"
-                alt="image"
+                alt="Sven Struan Finlay"
               />
             </div>
             <div class="hero__thumb--two">
               <v-lazy-image
                 :src="data.hero.image"
                 class="img-fluid"
-                alt="image"
+                alt="Sven Struan Finlay"
               />
             </div>
           </div>
