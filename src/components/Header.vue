@@ -14,10 +14,10 @@
                         <nav class="main-menu">
                             <ul>
                                 <li>
-                                    <router-link to="/">HOME</router-link>
+                                    <router-link to="http://svensfinlay.tech/">HOME</router-link>
                                 </li>
                                 <li>
-                                    <router-link to="/about">ABOUT ME</router-link>
+                                    <router-link to="http://svensfinlay.tech/about">ABOUT ME</router-link>
                                 </li>
                                 <li>
                                     <router-link to="/project">PROJECT</router-link>
