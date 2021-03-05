@@ -45,5 +45,15 @@
                 "desc": "Assistant instructor for the python course with a focus on back end web development."
             }
         ]
+    },
+    "Publicaitons": {
+        "heading": "Publicaitons",
+        "resumes": [
+            {
+                "insName": "Intel Sight++",
+                "position": "<span>GOSH Conference 2020</span> |  INTEL UCL IXN - TEAM LEAD",
+                "desc": "Finlay S, Visram S, Georgsson G, et al 49 Sight ++: Prototyping a computer vision guidedassistive technology. Archives of Disease in Childhood 2020;105:A17. https://adc.bmj.com/content/105/Suppl_2/A17.1"
+            }            
+        ]
     }
 }

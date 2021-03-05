@@ -16,6 +16,9 @@
                 <div class="col-md-6 professional">
                     <ResumeList :resume="data.professional" />
                 </div>
+                <div class="col-md-12 professional">
+                    <ResumeList :resume="data.Publicaitons" />
+                </div>
             </div>
         </div>
     </div>
