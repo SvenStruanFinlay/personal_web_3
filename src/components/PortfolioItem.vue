@@ -8,7 +8,7 @@
       </div>
       <div class="portfolio-item__content">
         <h4 class="portfolio-title">
-          <router-link :to="portfolio.link">{{ portfolio }}</router-link>
+          <router-link :to="portfolio.link">{{ portfolio.title }}</router-link>
         </h4>
         <p>{{ portfolio.desc }}</p>
       </div>
