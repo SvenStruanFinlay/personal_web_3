@@ -46,6 +46,10 @@
                 <div class="aboutPara">
                   <p>{{ data.about.aboutMe3 }}</p>
                 </div>
+
+                <div class="aboutPara">
+                  <p>{{ data.about.aboutMe4 }}</p>
+                </div>
                 <div class="signature">
                   <img src="/img/bg/signature.png" alt="Sven Finlay Sig" />
                 </div>

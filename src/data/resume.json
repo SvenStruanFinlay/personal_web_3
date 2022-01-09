@@ -25,6 +25,16 @@
         "heading": "Professional",
         "resumes": [
             {
+                "insName": "Marshmallow",
+                "position": "<span>April 2021 - Present</span> | Backend Engineer Level 2",
+                "desc": "Working in the Effeiency team, a core team that focuses on automation and optimisation. Focusing on payments, customer self service and task automation."
+            },
+            {
+                "insName": "Erika Security",
+                "position": "<span>Jan 2021 - April 2021</span> | Full Stack Engineer - Part Time",
+                "desc": "I was working on a flexible part-time contract to design and implement a foundational system for a new security startup. I successfully integrated quickly and made a significant contribution in the short time I was there. "
+            },
+            {
                 "insName": "Medidata",
                 "position": "<span>Summer 2019 </span> |  Innovation Scientist - Intern",
                 "desc": "Worked in a team of clinical trial experts developing new innovative ideas for the company. Developed a proof-of-concept (PoC) system integrating 3D printing into the medical supply system. Rapidly adapted to understanding of clinical trials and its software systems to develop PoC. Cross-functional teamwork, python, agile development, system design and project management."

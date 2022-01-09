@@ -4,8 +4,9 @@
         "sectionTitleWaterText": "About Me",
         "aboutMe": "Driven by curiosity, tech innovation is pushing our world forward at an unprecedented rate. I am a Computer Scientist with a passion for software, innovation and people.",
         "aboutMe2": "Starting computer science in high school, I focused on Java and SQL database programming. Reading my undergraduate, I took up a focus in software engineering, AI, user interaction and data visualisation. I aim to utilise these areas to make people's life better (more comfortable, happier, more powerful, and more efficient) with technology. ",
-        "aboutMe3": "I am now reading an MSc in Software System Engineering so that I can reinforce the fundamentals of software engineering, requirement engineering, software architecture, project management in software and the core of software systems design. I plan to dive into the industry with an expert background in SSE with a passion for innovation, technology, and people."
-    },
+        "aboutMe3": "Recently I finished reading an MSc in Software System Engineering so that I can reinforce the fundamentals of software engineering, requirement engineering, software architecture, project management in software and the core of software systems design. I plan to dive into the industry with an expert background in SSE with a passion for innovation, technology, and people.",
+        "aboutMe4": "I am now working as a backend engineer at Marshmallow Insurance, a rapidly growing startup that enforces reliabilty, dilengence, fast results and bleeding-edge thinking in its values."
+     },
     "socials": [
         {
             "icon": "fa fa-facebook",
@@ -50,7 +51,7 @@
             },
             {
                 "label": "Job",
-                "info": "Seeking"
+                "info": "Software System Engineer"
             },
             {
                 "label": "Phone",
