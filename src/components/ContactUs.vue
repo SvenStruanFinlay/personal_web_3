@@ -12,17 +12,9 @@
             <div class="row">
                 <div class="col-12">
                     <div class="contact-info text-center">
-                        <div class="contact-info__list address">
-                            <i class="fa fa-home"></i>
-                            <p>Candover Street, London, UK</p>
-                        </div>
                         <div class="contact-info__list email">
                             <i class="fa fa-envelope"></i>
-                            <a href="mailto:example@gmail.com">info@svensfinlay.tech</a>
-                        </div>
-                        <div class="contact-info__list phone">
-                            <i class="fa fa-phone"></i>
-                            <a href="tel:+447802693193">+4478026*****</a>
+                            <a href="mailto:sven.struan@finlay-consult.com">sven.struan@finlay-consult.com</a>
                         </div>
                     </div>
                 </div>

@@ -74,7 +74,7 @@
           <div class="about-us">
             <div class="about-us__content text-center">
               <div class="aboutPara">
-                <h2>Frameworks</h2>
+                <h2>Tools &amp; platforms</h2>
               </div>
             </div>
           </div>

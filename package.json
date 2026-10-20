@@ -22,16 +22,15 @@
     "vue-particles": "^1.0.9",
     "vue-round-slider": "^1.0.1",
     "vue-router": "^3.1.5",
-    "vue-simple-alert": "^1.1.1",
-    "vue2-google-maps": "^0.10.7"
+    "vue-simple-alert": "^1.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-router": "^4.2.0",
     "@vue/cli-service": "^4.2.0",
-    "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "sass": "~1.32.13"
   },
   "browserslist": [
     "> 1%",

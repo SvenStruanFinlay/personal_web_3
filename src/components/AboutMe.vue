@@ -63,9 +63,6 @@
                     <i :class="social.icon"></i>
                   </a>
                 </div>
-                <a href="/img/CV_SVEN_FINLAY.pdf" class="download-btn" download
-                  >Download <span>Resume</span></a
-                >
               </div>
             </div>
           </div>

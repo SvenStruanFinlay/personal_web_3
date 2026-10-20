@@ -5,23 +5,23 @@
         "services": [
             {
                 "serviceNo": "01",
-                "title": "Computer Scientist",
-                "desc": "Having trained in CS during my undergraduate I understand a wide range of its fundamentals. I also specialised in HCI, AI, Software Engineering and Data visualision."
+                "title": "Products from 0→1",
+                "desc": "Taking new products and systems from an idea to launch: writing the PRD and the technical design, and working with partners outside the codebase until it ships."
             },
             {
                 "serviceNo": "02",
-                "title": "Software Design and Architecture",
-                "desc": "In reading my masters I sharpend my skills in software systems design, development and implementation. This is demonstraited through distinctions in my projects. "
+                "title": "Distributed Systems",
+                "desc": "Hands-on architect of distributed, event-driven systems on AWS, including re-architecting live platforms without downtime."
             },
             {
                 "serviceNo": "03",
-                "title": "Software Team Mananagment",
-                "desc": "Throughout my student career I have lead and managed many software teams. For example, as Web Editor of the Saint, as Team leader of IBM and Intel industry exchange projects. Each team I have lead results in high award, most recently being published to Gosh Conference 2020."
+                "title": "Leading Delivery",
+                "desc": "Breaking work into milestones other engineers own, leading teams of up to 12 through launch, and deputising for my engineering manager."
             },
             {
                 "serviceNo": "04",
-                "title": "Creative Design",
-                "desc": "Throughout my degrees, during my research internship at St Andrews and as an Innovation Scientist intern at Medidata, I have push my minds creativity to help develop new innovative projects. Often with high regards."
+                "title": "AI-first Engineering",
+                "desc": "Moved my team onto Claude Code and co-built an experimentation platform with Claude in three days."
             }
         ]
     }

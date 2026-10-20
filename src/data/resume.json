@@ -7,12 +7,12 @@
             {
                 "insName": "UCL - Distinction",
                 "position": "<span>2019/20</span> | MSc Software Systems Engineering",
-                "desc": "Modules: Tools and Environments, Requirements Engineering and Software Architec-ture, Professional Practice, Software Abstractions and Systems Integration, People and Security, Validation and Verification & Multi-agent Artificial Intelligence."
+                "desc": "Modules: Tools and Environments, Requirements Engineering and Software Architecture, Professional Practice, Software Abstractions and Systems Integration, People and Security, Validation and Verification, and Multi-agent Artificial Intelligence. Led industry projects with Intel and IBM."
             },
             {
-                "insName": "University of St Andrews - First Class ",
+                "insName": "University of St Andrews - First Class",
                 "position": "<span>2015-2019</span> | BSc Computer Science (Hons)",
-                "desc": "HighAchievementModules:Software Engineering Practice, Constraint Programming, Information Visualisation and Visual Analytics, Logic and Software Verification, Artificial Intelligence Prac-tice, Video Games, and Software Engineering Team Project."
+                "desc": "Dean's Award. High achievement modules: Software Engineering Practice, Constraint Programming, Information Visualisation and Visual Analytics, Logic and Software Verification, Artificial Intelligence Practice, Video Games, and Software Engineering Team Project."
             },
             {
                 "insName": "SACS High",
@@ -26,8 +26,8 @@
         "resumes": [
             {
                 "insName": "Marshmallow",
-                "position": "<span>April 2021 - Present</span> | Backend Engineer Level 2",
-                "desc": "Working in the Effeiency team, a core team that focuses on automation and optimisation. Focusing on payments, customer self service and task automation."
+                "position": "<span>April 2021 - Present</span> | Senior Product Engineer",
+                "desc": "Joined as a junior as one of the first hundred employees; promoted in May 2022 and March 2026. Lead architecture and technical direction for telematics. Took a new usage-based insurance product with an in-car device from concept to launch, leading a cross-functional team of 12; made its platform reusable across the business and led the move to an event-driven design. Co-built the company's experimentation platform at a hackathon. Deputise for the engineering manager and mentor across the team."
             },
             {
                 "insName": "Erika Security",
@@ -37,12 +37,12 @@
             {
                 "insName": "Medidata",
                 "position": "<span>Summer 2019 </span> |  Innovation Scientist - Intern",
-                "desc": "Worked in a team of clinical trial experts developing new innovative ideas for the company. Developed a proof-of-concept (PoC) system integrating 3D printing into the medical supply system. Rapidly adapted to understanding of clinical trials and its software systems to develop PoC. Cross-functional teamwork, python, agile development, system design and project management."
+                "desc": "Worked in a team of clinical trial experts developing new ideas for the company, including a proof-of-concept integrating 3D printing into the medical supply system. Python, agile development, system design and project management."
             },
             {
                 "insName": "The Saint - St Andrews Student Newspaper",
                 "position": "<span>2018-2019</span> |  Web Editor",
-                "desc": " Oversaw the now award-winning website redesign while managing and growing the team."
+                "desc": "Oversaw the award-winning website redesign while managing and growing the team."
             },
             {
                 "insName": "University of St Andrews",
@@ -57,13 +57,13 @@
         ]
     },
     "Publicaitons": {
-        "heading": "Publicaitons",
+        "heading": "Publications",
         "resumes": [
             {
                 "insName": "Intel Sight++",
-                "position": "<span>GOSH Conference 2020</span> |  INTEL UCL IXN - TEAM LEAD",
-                "desc": "Finlay S, Visram S, Georgsson G, et al 49 Sight ++: Prototyping a computer vision guidedassistive technology. Archives of Disease in Childhood 2020;105:A17. https://adc.bmj.com/content/105/Suppl_2/A17.1"
-            }            
+                "position": "<span>GOSH Conference 2020</span> | Intel UCL IXN - Tech lead",
+                "desc": "Finlay S, Visram S, Georgsson G, et al. Sight++: Prototyping a computer vision guided assistive technology. Archives of Disease in Childhood 2020;105:A17. https://adc.bmj.com/content/105/Suppl_2/A17.1"
+            }
         ]
     }
 }

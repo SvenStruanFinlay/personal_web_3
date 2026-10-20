@@ -49,12 +49,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="google-map section-padding pb-0">
-            <div class="container">
-                <GoogleMap />
-            </div>
-        </div>
         
 
         <ContactUs />
@@ -93,7 +87,6 @@
 
 <script>
     import Header from '@/components/Header';
-    import GoogleMap from '@/components/GoogleMap';
     import ContactUs from '@/components/ContactUs';
     import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu';
     import Footer from '@/components/Footer';
@@ -102,7 +95,6 @@
     export default {
         components: {
             Header,
-            GoogleMap,
             ContactUs,
             OffCanvasMobileMenu,
             Footer,
