@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Vue CLI 4 uses webpack 4, which needs the legacy OpenSSL provider on Node 17+
+  NODE_OPTIONS = "--openssl-legacy-provider"
+
+# vue-router runs in history mode, so every path must serve index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
