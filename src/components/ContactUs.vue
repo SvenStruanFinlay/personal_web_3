@@ -14,7 +14,7 @@
                     <div class="contact-info text-center">
                         <div class="contact-info__list email">
                             <i class="fa fa-envelope"></i>
-                            <a href="mailto:sven.struan@finlay-consult.com">sven.struan@finlay-consult.com</a>
+                            <a href="mailto:job@svensfinlay.tech">job@svensfinlay.tech</a>
                         </div>
                     </div>
                 </div>
